@@ -1,0 +1,60 @@
+@font-face {
+    font-family: 'Billabong';
+    src: url('Billabong.woff2') format('woff2'),
+        url('Billabong.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+h3{
+    font-family:"Billabong";
+}
+#logo{
+    display: inline;
+    vertical-align: middle;
+}
+.form-control{
+    width: 100px;
+}
+
+#stories img{
+    vertical-align: middle;
+    width: 52px;
+    height: 52px;
+    border-radius: 50%;
+    border: 2px solid #D300C5;
+}
+p{
+    font-size: 10px;
+    font-weight: bold;
+}
+h5{
+    font-size: medium;
+}
+h4{
+    font-size: medium;
+    color: #3089B5;
+}
+div.sagekran{
+    position:  relative;
+   
+}
+div.bookmark{
+    position: fixed;
+}
+.card>img{
+    height: 20rem;
+    width: 32rem;
+}
+.ikonlar{
+    width: 32rem;
+    height: 50px;
+   
+}
+
+.fa-bookmark{
+    margin-left: 370px;
+}
+.card{
+    width: 32rem;
+}
