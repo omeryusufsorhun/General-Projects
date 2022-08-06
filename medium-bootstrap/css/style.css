@@ -1,0 +1,17 @@
+body{
+    font-family: 'PT Serif', serif;
+
+    }
+.bg-yellow{
+background-color: #ffc017;
+}
+
+.border-bottom-nav{
+border-bottom: 1px solid #947520;}
+h1,h2,h3,h4,p{
+color: black;
+}
+a{
+    text-decoration: none;}
+.aside-buttons>li{
+margin-bottom: 10px;}
